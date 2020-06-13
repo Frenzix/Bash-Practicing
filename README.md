@@ -7,4 +7,8 @@ exercises :: (https://www.coursera.org/learn/unix/)
 
 Learn rudimentary bash scripting.
 
+<<<<<<< HEAD
 ## trying to make some conflict
+=======
+### inserted line
+>>>>>>> new-feature
