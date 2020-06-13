@@ -7,3 +7,4 @@ exercises :: (https://www.coursera.org/learn/unix/)
 
 Learn rudimentary bash scripting.
 
+## trying to make some conflict

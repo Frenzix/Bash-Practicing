@@ -1,5 +1,12 @@
 #!/usr/bin/env bash
 
+function inDomain {
+	if [[ $3 -gt $1 ]] && [[ $3 - lt $2 ]]; then
+		echo "In domain { $1 < $3 < $2 }"
+	else
+		echo "not in domain.."
+	fi
+}
 function multiplier {
 	
 	local product=1
