@@ -1,9 +1,10 @@
-### DESCRIPTION 
+## DESCRIPTION 
 
 A written file for practicing bash programming, derived from course 
 exercises :: (https://www.coursera.org/learn/unix/)
 
-### PUROSE
+## PUROSE
 
-Learn rudimentary bash scripting.
+- Learn rudimentary bash scripting.
+- Gain acquaintance with a linux environment
 
